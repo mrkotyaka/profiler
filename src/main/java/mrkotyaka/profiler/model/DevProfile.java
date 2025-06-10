@@ -1,4 +1,4 @@
-package mrkotyaka.profiler;
+package mrkotyaka.profiler.model;
 
 public class DevProfile implements SystemProfile {
     @Override
